@@ -1,0 +1,4 @@
+syntax: glob
+examples/*
+node_modules/*
+tall-walls.js
