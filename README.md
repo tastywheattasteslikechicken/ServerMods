@@ -31,7 +31,7 @@ A collection of commands that can be used to control many aspects of the current
 
    * Repair arbitrary structures by arbitrary amounts
    * Upgrade/Downgrade the current room's controller by a given amount (WIP)
-   * Activate/Deactivate safemode, change/reset cooldown, change number of activiations (WIP)
+   * Activate/Deactivate safemode, change/reset cooldown, change number of activations (WIP)
    * Destroy creeps/structures at position
    * Force a mineral to regen or change type (any type, incl T3)
    * Boost a creep at position with any mineral (WIP)
